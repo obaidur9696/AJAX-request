@@ -1,0 +1,15 @@
+#btn{
+    margin: 10px;
+    cursor: pointer;
+}
+
+#dog-image-con{
+    margin: 20px;
+}
+
+#dog-image{
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    
+}
